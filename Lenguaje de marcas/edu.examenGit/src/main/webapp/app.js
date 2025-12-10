@@ -1,3 +1,4 @@
 /**
- * holaaa
+ *
  */
+console.log("App iniciada");
